@@ -144,4 +144,7 @@ dmypy.json
 
 # data directory
 /data
+
+# .idea
+/.idea
 # End of https://www.toptal.com/developers/gitignore/api/python
